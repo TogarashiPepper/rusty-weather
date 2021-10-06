@@ -1,9 +1,6 @@
-mod icon_path;
 use gtk::prelude::*;
 use gio::prelude::*;
 use gtk::{Application, ApplicationWindow, Box as GtkBox, Button, Label, Image};
-
-use crate::icon_path::icon_path;
 
 #[derive(serde::Deserialize)]
 struct ValueWrapper<T> {
