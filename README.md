@@ -5,3 +5,5 @@ to get started clone the repository and run
 ```bash
 cargo run
 ```
+
+![screenshot of the application](weatherapp.png?raw=true "screenshot")
