@@ -1,5 +1,5 @@
 # rusty-weather
-a simple weather app written in rust
+a simple and fast weather app written in rust
 
 to get started clone the repository and run
 ```bash
